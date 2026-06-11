@@ -1,0 +1,25 @@
+# Raw PHITS output files
+
+*.out
+*.dmp
+*.dump
+*.ang
+*.eps
+
+# Large raw data folders
+
+raw/
+data/raw/
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Jupyter checkpoint
+
+.ipynb_checkpoints/
+
+# System files
+
+.DS_Store
