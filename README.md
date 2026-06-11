@@ -13,7 +13,7 @@ Quantifying multiple Coulomb scattering is important in proton therapy because a
 This analysis estimates the multiple-scattering angle θ₀, defined as the Gaussian width of the angular distribution, at several scoring planes along a 140 MeV proton beam. Per-layer scattering contributions are estimated using successive variance subtraction between adjacent scoring planes:
 
 $$
-\theta^2_{0,\text{layer}} = \theta^2_{0,\text{after}} - \theta^2_{0,\text{before}}
+\theta^2_{0\text{layer}} = \theta^2_{0\text{after}} - \theta^2_{0\text{before}}
 $$
 
 ## Simulation Setup
